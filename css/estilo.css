@@ -1,0 +1,62 @@
+#primeira_div{
+    text-align: center;
+    margin: auto;
+    font-family: 'tahoma';
+}
+h1{
+    font-size: ;
+    
+}
+h2{
+    font-size: 24px;
+    font-family: 'tahoma';
+}
+
+#segunda_div{
+    border-top: solid ;
+    text-align: center;
+    margin-top: 8px;
+    font-family: 'tahoma';
+}
+
+h3{
+    
+    font-size: 20px; 
+    font-family: 'tahoma';
+}
+
+#terceira_div{
+    border-top: solid;
+    text-align: center;
+    margin: 8px dashed;
+    font-family: 'tahoma';
+}
+img{
+    width: 190px;
+}
+
+#quarta_div{
+    border-top: solid;
+    text-align: center;
+    margin: 8px;
+    font-family: 'tahoma';
+}
+p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+   margin: auto;
+}
+a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #008000;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 5px solid #008000;
+}
+span{
+    font-weight: bold;
+    color
+}
